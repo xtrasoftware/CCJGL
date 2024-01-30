@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CCJGL>
+  <FOLDERS>
+    <obj id="/dependencies/">
+    </obj>
+    <!--========-->
+    <obj id="/client/">
+    </obj>
+    <!--========-->
+    <obj id="/lib/">
+    </obj>
+  </FOLDERS>
+
+
+
+</CCJGL>
